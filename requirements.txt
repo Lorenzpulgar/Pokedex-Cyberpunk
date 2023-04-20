@@ -26,7 +26,6 @@ charset-normalizer==2.1.1
 click==8.0.3
 click-plugins==1.1.1
 cligj==0.7.2
-cloud-init==22.4.2
 cloudpickle==2.2.1
 colorama==0.4.4
 command-not-found==0.3
