@@ -1,7 +1,5 @@
 # Pokemon Cyberpunk
 
-![Pokemon Cyberpunk](https://i.imgur.com/KDxneMS.png)
-
 A simple Streamlit app that allows users to search for and view information about Pokemon from the popular game series, with a cyberpunk twist.
 
 ## Usage
