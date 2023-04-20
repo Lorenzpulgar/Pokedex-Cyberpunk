@@ -28,7 +28,7 @@ The app should open automatically in your browser. If it doesn't, you can access
 
 ## Credits
 
-This app was created by [Your Name Here]. It uses data from the [PokeAPI](https://pokeapi.co/), and the cyberpunk background images were created using [Unsplash](https://unsplash.com/) and edited using [Photoshop](https://www.adobe.com/products/photoshop.html). 
+This app was created by Lorenz Pulgar Velásquez. It uses data from the [PokeAPI](https://pokeapi.co/), and the cyberpunk background images were created using [Unsplash](https://unsplash.com/) and edited using [Photoshop](https://www.adobe.com/products/photoshop.html). 
 
 ## License
 
